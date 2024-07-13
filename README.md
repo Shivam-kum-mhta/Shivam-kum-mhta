@@ -6,7 +6,7 @@
 🤖 Interested in learning Machine Learning and Blockchain<br>
 💡 love to contribute to open source<br>
 
-[![](https://visitcount.itsvg.in/api?id=Calisto-Mathias&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shivam-kum-mhta&icon=2&color=6)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__shiv_am656) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-a) 
 
