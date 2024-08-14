@@ -4,7 +4,7 @@
 👨‍💻 Python and Maths Lover<br>
 🔍 Currently working on a project in github classroom<br>
 😋Interested in learning Machine Learning and Blockchain<br>
-🤞 love to contribute to open sources<br>
+🤞 love problem solving<br>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-kumar-a-995330289/) 
