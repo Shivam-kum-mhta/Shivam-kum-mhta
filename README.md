@@ -3,7 +3,7 @@
 📚 Studying Information Technology @ NITK-Surathkal, India<br>
 👨‍💻 Python and Maths Lover<br>
 🔍 Currently working on a project in github classroom<br>
-😋Interested in learning Machine Learning and Blockchain<br>
+😋Interested in  Machine Learning and Blockchain technology<br>
 🤞 love problem solving<br>
 
 ## 🌐 Socials:
