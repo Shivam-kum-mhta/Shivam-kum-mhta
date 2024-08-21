@@ -19,7 +19,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 <br>
 
-| Sklearn  | Numpy    | Pandas   | Matplotlib| Tensorflow |
-|----------|----------|----------|-----------|------------|
+| Sklearn  | Numpy    | Pandas   | Matplotlib| Pytorch  | Tensorflow |
+
 | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  |  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="mpl" alt="mpl" width="55" height="55"/> 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
