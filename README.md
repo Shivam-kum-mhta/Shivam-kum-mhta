@@ -1,8 +1,8 @@
 # :) About Me:
 
 📚 Studying Information Technology @ NITK-Surathkal, India<br>
-👨‍💻 Python and Maths Lover<br>
-🔍 Currently working on a project in github classroom<br>
+👨‍💻Javascript and Anime Lover<br>
+🔍 Currently exploring Blockchain and Web3<br>
 😋Interested in  Machine Learning and Blockchain technology<br>
 🤞 love problem solving<br>
 
