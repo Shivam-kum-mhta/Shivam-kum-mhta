@@ -1,4 +1,4 @@
-# Hi there, I'm Shivam Kumar A 👋
+# Hi there👋
 I'm an enthusiastic **IT student at NITK** who loves exploring the world of **web development**, **blockchain**, **machine learning**, and more. 🚀
 ### 🧑‍💻 About Me
 - 🔭 I’m currently working on **NFT generator for Images**, a platform to dynamically generate unique images & mint them as NFTs.
