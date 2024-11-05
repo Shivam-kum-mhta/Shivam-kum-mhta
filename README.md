@@ -13,9 +13,9 @@ Hello! I'm an enthusiastic **IT student at NITK** who loves exploring the world 
 ---
 
 ### 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/shivamkumara) 💼
-- [Twitter](https://twitter.com/shivamkumar_a) 🐦
-- [Email](sk8625228@gmail.com) 📧
+- [LinkedIn](https://www.linkedin.com/in/shivam-kumar-a-995330289) 
+- [Twitter](https://twitter.com/shivamkumar_a) 
+- [Email](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPxSQtDMRsvjWVfZzZgfRLQcwNNwDhgfnmgXhnjGLnVFsjTqbtZGsxMSJGRXlHnwNKzlSB) 
 
 ---
 
