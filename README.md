@@ -6,7 +6,7 @@ I'm an enthusiastic **IT student at NITK** who loves exploring the world of **we
 - 💬 Love talking about **web3**, **full-stack development**, and **AI/ML applications**.
 - ⚡ Fun fact: I love to connect tech with real-world solutions and network with people who aspire /is into  Tech!
 ### Tech Stack 
-  MERN (MongoDB, Express.js, React, Node.js), FastAPI, TensorFlow and Keras, JWT, Ruby, C++, JS, Python, Solidity. 
+  **MERN (MongoDB, Express.js, React, Node.js), FastAPI, TensorFlow and Keras, JWT, Ruby, C++, JS, Python, Solidity**. 
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/shivam-kumar-a-995330289) 
 - [Twitter](https://twitter.com/shivamkumar_a) 
