@@ -1,7 +1,7 @@
 # Hi there👋
 I'm an enthusiastic **IT student at NITK** who loves exploring the world of **web development**, **blockchain**, **machine learning**, and more. 🚀
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on **NFT generator for Images**, a platform to dynamically generate unique images & mint them as NFTs.
+- 🔭 I’m currently honing my DSA skills.
 - 🌱 Currently enhancing my skills in **smart contracts** and **DeFi protocols**.
 - 💬 Love talking about **web3**, **full-stack development**, and **AI/ML applications**.
 - ⚡ Fun fact: I love to connect tech with real-world solutions and network with people who aspire /is into  Tech!
