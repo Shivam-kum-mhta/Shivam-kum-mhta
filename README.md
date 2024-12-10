@@ -12,5 +12,5 @@ I'm an enthusiastic **IT student at NITK** who loves exploring the world of **we
 - [Twitter](https://twitter.com/shivamkumar_a) 
 - [Email](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwPxSQtDMRsvjWVfZzZgfRLQcwNNwDhgfnmgXhnjGLnVFsjTqbtZGsxMSJGRXlHnwNKzlSB) 
 ### 📈 Commit to Learning
-I believe the journey ahead will be filled with curiosity, challenges, and growth—packed with ups, ambiguity, and countless opportunities to learn. I'm like to making steady improvements every single day!
+I believe the journey ahead will be filled with curiosity, challenges, and growth—packed with ups, ambiguity, and countless opportunities to learn. I like to make steady improvements every single day!
 
